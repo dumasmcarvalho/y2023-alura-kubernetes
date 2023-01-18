@@ -1,1 +1,2 @@
-# y2023-alura-kubernetes
+# Alura - Kubernetes: Pods, Services e ConfigMaps
+# Alura - Kubernetes: Deployments, Volumes e Escalabilidade
